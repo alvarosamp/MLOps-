@@ -1,0 +1,10 @@
+---- COMANDOS BÁSICOS DO LINUX ----
+pwd --> displays present working diretory ( aparece em qual diretorio estamos, mostrando até o caminho)
+mkdir mydir --> create a diretory
+cd mydir --> change directory
+ls --> List contents of current directory (mostra uma lista contendo os nomes do diretorios)
+ls -l --> List contents of current directory with detailed output
+ll --> list contents of current directory with detailed output
+cd .. --> to come out of a directory (Comando para sair do diretório)
+rm -r testdir --> to remove a directory
+~ --> Home directory (navega para o diretorio home)
